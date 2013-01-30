@@ -5,5 +5,5 @@ These are files for easy integration of maps hosted with MapBox into Apple's iBo
 More on the blog: http://mapbox.com/blog/ibooks-author-widgets
 
  * `MapBox Example.iba`: sample iBooks Author document for editing (open in [iBooks Author](https://itunes.apple.com/us/app/ibooks-author/id490152466?mt=12))
- * `MapBox Demo.wdgt`: sample iBooks Author widget for embedding maps (right-click in Finder and *Show Package Contents*)
+ * `MapBox Demo.wdgt.zip`: sample iBooks Author widget for embedding maps (unzip, then right-click in Finder and *Show Package Contents*)
  * `MapBox Example.ibooks`: sample final outputted iBook for loading onto an iPad via iTunes
